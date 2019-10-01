@@ -1,4 +1,4 @@
-[All about WB!](wb.png "WB")
+[All about WB!](wb.jpg "WB")
 
 A Retrospective of phase one of the WBC
 
